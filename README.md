@@ -38,6 +38,12 @@
 
 
 
+#### MobileNet_v2
+
+![2333](https://img-blog.csdnimg.cn/20210401211309765.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lGUjcxOA==,size_16,color_FFFFFF,t_70)
+
+
+
 
 
 # Object Detection
