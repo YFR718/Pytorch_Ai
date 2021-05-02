@@ -46,6 +46,22 @@
 
 
 
+
+
+|             | MINST | FashionMNIST | CIFAR10 | CIFAR100 |
+| :---------: | :---: | :----------: | :-----: | :------: |
+|    LeNet    | 99.11 |    99.13     |  64.36  |  20.36   |
+|   AlexNet   | 99.41 |     99.5     |  82.04  |  53.30   |
+|    VGG16    |       |              |         |          |
+|  GoogleNet  |       |              |         |          |
+|  ResNet18   |       |              |         |          |
+|  ResNet34   |       |              |         |          |
+|  ResNet52   |       |              |         |          |
+|  ResNet101  |       |              |         |          |
+|  ResNet152  |       |              |         |          |
+| MobileNetv1 | 98.61 |    98.37     |  55.05  |  24.97   |
+|             |       |              |         |          |
+
 # Object Detection
 
 
